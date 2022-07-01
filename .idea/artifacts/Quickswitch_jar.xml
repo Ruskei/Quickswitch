@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Quickswitch:jar">
+    <output-path>$PROJECT_DIR$/../1.17.1 Plugin Testing/plugins</output-path>
+    <root id="archive" name="Quickswitch.jar">
+      <element id="module-output" name="Quickswitch" />
+    </root>
+  </artifact>
+</component>

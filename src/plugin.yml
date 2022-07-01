@@ -1,0 +1,9 @@
+name: Quickswitch
+version: 1.0
+author: Ruskei
+main: com.ruskei.csgo.Main
+description: CSGO in Minecraft
+api-version: 1.17
+
+commands:
+  quickswitch:
